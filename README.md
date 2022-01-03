@@ -65,14 +65,3 @@
   | **DSSGD**  | -0.01423     | -0.07831     | -0.3134      | 0.033506     | -0.88091    | -0.19376     |
   | **CFFL**   | 0.988761     | 0.952534     | 0.948923     | 0.949149     | 0.928042    | 0.968656     |
   | **CFFL_P** | **0.999493** | **0.987242** | **0.998739** | **0.994166** | **0.96821** | **0.974728** |
-
-## TMC Shapley
-
-客户端数量为10时，客户端0的Shapley值收敛：
-
-![image-20220103200351272](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220103200351272.png)
-
-客户端数量为20时，客户端0的Shapley值收敛：
-
-![image-20220103200403344](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220103200403344.png)
-
